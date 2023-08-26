@@ -1,0 +1,1 @@
+{"name":"Local: stl_queue","url":"c:\\C\\Data Structures\\module 14\\stl_queue.cpp","tests":[{"id":1688449111151,"input":"5\n10 20 23 25 26","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\C\\Data Structures\\module 14\\stl_queue.cpp","group":"local","local":true}

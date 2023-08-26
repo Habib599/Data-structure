@@ -1,0 +1,9 @@
+{
+    "cph.general.onceMaintainerMessage": false,
+    "files.associations": {
+        "array": "cpp",
+        "string": "cpp",
+        "iostream": "cpp",
+        "new": "cpp"
+    }
+}

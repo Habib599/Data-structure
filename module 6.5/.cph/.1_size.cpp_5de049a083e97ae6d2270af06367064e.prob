@@ -1,0 +1,1 @@
+{"name":"Local: 1_size","url":"c:\\C\\Data Structures\\module 6.5\\1_size.cpp","tests":[{"id":1687754971296,"input":"2 1 5 3 4 8 9 -1","output":"7"},{"id":1687754982708,"input":"5 1 4 5 -1","output":"4"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\C\\Data Structures\\module 6.5\\1_size.cpp","group":"local","local":true}

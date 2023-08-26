@@ -1,0 +1,1 @@
+{"name":"Local: print_linked_list","url":"c:\\C\\Data Structures\\module 5\\print_linked_list.cpp","tests":[{"id":1686763505303,"input":"","output":"10\n20\n30\n40\n50"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\C\\Data Structures\\module 5\\print_linked_list.cpp","group":"local","local":true}

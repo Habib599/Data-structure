@@ -1,0 +1,1 @@
+{"name":"Local: practice","url":"c:\\C\\Data Structures\\module 8 assign ment\\practice.cpp","tests":[{"id":1686977487828,"input":"10 20 30 40 50 -1","output":"50 40 30 20 10\n10 20 30 40 50"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\C\\Data Structures\\module 8 assign ment\\practice.cpp","group":"local","local":true}

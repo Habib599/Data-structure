@@ -1,0 +1,1 @@
+{"name":"Local: 5_ascending oder","url":"c:\\C\\Data Structures\\module 6.5\\5_ascending oder.cpp","tests":[{"id":1687836802372,"input":"1 5 6 8 9 -1","output":"YES"},{"id":1687836810242,"input":"2 4 6 5 8 4 -1","output":"NO"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\C\\Data Structures\\module 6.5\\5_ascending oder.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: 3middle element","url":"c:\\C\\Data Structures\\module 6.5\\3middle element.cpp","tests":[{"id":1687760232982,"input":"2 4 6 8 10 -1","output":"6"},{"id":1687760243084,"input":"1 2 3 4 5 6 -1","output":"3 4"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\C\\Data Structures\\module 6.5\\3middle element.cpp","group":"local","local":true}

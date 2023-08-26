@@ -1,0 +1,1 @@
+{"name":"Local: 1_same or not","url":"c:\\C\\Data Structures\\module 10.5\\1_same or not.cpp","tests":[{"id":1687228890905,"input":"10 20 30 40 50 -1\n10 20 30 40 50 -1","output":"YES"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\C\\Data Structures\\module 10.5\\1_same or not.cpp","group":"local","local":true}

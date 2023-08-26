@@ -1,0 +1,1 @@
+{"name":"Local: all code dubly list","url":"c:\\C\\Data Structures\\all code dubly list.cpp","tests":[{"id":1687365759720,"input":"1 2 6 3 4 5 6","output":"1 2 3 4 5"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\C\\Data Structures\\all code dubly list.cpp","group":"local","local":true}
